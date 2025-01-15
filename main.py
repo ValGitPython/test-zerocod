@@ -7,4 +7,5 @@ def user_input_greeting():
     print_hello(name)
 
 
-user_input_greeting()
+name=user_input_greeting()
+print_hello(name)
